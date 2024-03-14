@@ -31,10 +31,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-[
-A Day in the Life of a Hardworking Colleague 👨‍💼 - Watch Video](https://www.loom.com/share/35cee126afa04fb8b2e4e1ca18253079?sid=257221f5-c1ff-4eb5-bace-b17f211bdf62)
 
+
+Uploading loom.mp4…
 
 
 ## Notes
