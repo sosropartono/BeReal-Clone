@@ -1,5 +1,4 @@
 
-https://github.com/sosropartono/BeReal-Clone/assets/66928465/128ba91b-e434-4ad2-bddd-c7872085d7ea
 
 # Project 2 - *BeReal Clone*
 
