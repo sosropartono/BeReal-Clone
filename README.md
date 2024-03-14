@@ -33,7 +33,9 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-https://www.loom.com/share/35cee126afa04fb8b2e4e1ca18253079?sid=5bb7a74b-1048-41e4-a9f9-a0faaedca22a
+A Day in the Life of a Hardworking Colleague 👨‍💼 - Watch Video
+
+
 
 ## Notes
 
