@@ -33,7 +33,9 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4).
+
+https://github.com/sosropartono/BeReal-Clone/assets/66928465/3fc5ab74-a963-4e9c-8594-31bcd6e64419.gif
+
 
 ## Notes
 
