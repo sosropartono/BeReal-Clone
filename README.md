@@ -1,4 +1,6 @@
 
+https://github.com/sosropartono/BeReal-Clone/assets/66928465/128ba91b-e434-4ad2-bddd-c7872085d7ea
+
 # Project 2 - *BeReal Clone*
 
 Submitted by: **William Sosropartono**
@@ -33,7 +35,9 @@ The following **additional** features are implemented:
 
 
 
-Uploading loom.mp4…
+https://github.com/sosropartono/BeReal-Clone/assets/66928465/7bd8a1ed-5f09-48c7-a1b0-f35bc307472e
+
+
 
 
 ## Notes
