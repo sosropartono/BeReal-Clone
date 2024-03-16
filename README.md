@@ -1,10 +1,10 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *BeReal-Clone*
 
-Submitted by: **Your Name Here**
+Submitted by: **William Sosropartono**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**BeReal Clone** is an social platform application that basically allows you to interact with your connections only after a photo is posted, prompting users to upload photos to interact with others. [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
