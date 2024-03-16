@@ -1,15 +1,15 @@
+# Project 3 - *Name of App Here*
 
-# Project 3 - *BeReal Clone*
+Submitted by: **Your Name Here**
 
-Submitted by: **William Sosropartono**
+**Name of your app** is an app that introduces ... [TODO] 
 
-**BeReal Clone** is a photo sharing social media application that allows you to see community posts after posting a photo yourself![TODO] 
-
-Time spent: **5** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
+
 - [x] User can launch camera to take photo instead of photo library
 - [x] Users without iPhones to demo this feature can manually add unique photos to their simulator's Photos app
 - [ ] Users can intereact with posts via comments, comments will have user data such as username and name
@@ -22,17 +22,17 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4).
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Struggled with the comment portion, it is not complete
 
 ## License
 
